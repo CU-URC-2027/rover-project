@@ -1,6 +1,8 @@
 # Master requirements
 
-This register was imported from URC_2027_Lean_Master.xlsx (updated September 15, 2026). The workbook labels all entries as **proposed** and uses 2026 references only. Confirm every competition-derived item against the current 2027 rulebook before approving a design.
+This register is generated from `URC_2027_Lean_Master.xlsx`. The SharePoint workbook is the source of truth; the committed workbook and this Markdown register are GitHub mirrors. The workbook metadata says: Updated September 15, 2026.
+
+The workbook labels all entries as proposed and uses 2026 references only. Confirm every competition-derived item against the current 2027 rulebook before approving a design.
 
 Each entry is a team requirement rather than a replacement for the rulebook. Source / basis preserves the workbook's basis label and prior-master traceability. Status combines the workbook status and delivery stage.
 
