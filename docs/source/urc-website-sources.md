@@ -5,4 +5,4 @@ may change between competition seasons.
 
 | Official URL | Purpose | Retrieved | Notes |
 | --- | --- | --- | --- |
-| _Add current URC website URL_ | Competition overview | YYYY-MM-DD | |
+| https://urc.marssociety.org/ | Competition overview | 2026-09-19 | |
