@@ -28,9 +28,7 @@ The agent package is maintained separately in the sibling
 [`agents`](../agents) repository. Install/update it through the team marketplace;
 do not copy its skills or dependencies into this repository.
 
-The SharePoint Lean Master workbook is mirrored to GitHub and rendered into the
-requirements register through a review pull request. See
-[the SharePoint sync guide](docs/requirements/SHAREPOINT-SYNC.md) for setup.
+
 
 ## Publishing this repository
 
