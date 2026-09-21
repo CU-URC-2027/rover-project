@@ -1,6 +1,6 @@
 # Master requirements
 
-This register is generated from `URC_2027_Lean_Master.xlsx`. The SharePoint workbook is the source of truth; the committed workbook and this Markdown register are GitHub mirrors. The workbook metadata says: Updated September 15, 2026.
+This register is generated from `URC_2027_Lean_Master.xlsx`. If we need to update the requirements, the Github admin will update this MD file manually. The workbook metadata says: Updated September 15, 2026.
 
 The workbook labels all entries as proposed and uses 2026 references only. Confirm every competition-derived item against the current 2027 rulebook before approving a design.
 
