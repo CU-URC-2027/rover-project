@@ -45,6 +45,8 @@ competition rule.
 
 ## Before completing work
 
+For rover project questions, planning, research, and engineering advice, use the installed research-synthesis skill automatically. Read its SKILL.md before answering. Retrieve current project context through GitHub MCP from CU-URC-2027/rover-project, following the skill’s required read order. If a required tool or source is unavailable, identify the missing capability explicitly; do not substitute conversation history as authoritative project context.
+
 State what sources were used, list affected requirement IDs or architecture
 documents, and call out unresolved assumptions or rule interpretations that
 need team review.
